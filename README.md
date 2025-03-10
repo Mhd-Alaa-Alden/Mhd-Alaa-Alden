@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 
 🔹 Passionate about building scalable and efficient back-end solutions.  
-🔹 Experienced in **Laravel, PHP, MySQL, and RESTful APIs**
-🔹 Skilled in integrating **Postman, XAMPP, Git, and GitHub/GitLab** into development workflows
-🔹 Adept at **front-end development** with **HTML, CSS, JavaScript, and Bootstrap**, with three projects successfully hosted on GitHub 
-🔹 Strong knowledge of **object-oriented programming (OOP) and database management**
-🔹**System Analysis and Design**
+🔹 Experienced in **Laravel, PHP, MySQL, and RESTful APIs**                                   
+🔹 Skilled in integrating **Postman, XAMPP, Git, and GitHub/GitLab** into development workflows                                             
+🔹 Adept at **front-end development** with **HTML, CSS, JavaScript, and Bootstrap**, with three projects successfully hosted on GitHub                                         
+🔹 Strong knowledge of **object-oriented programming (OOP) and database management**                                   
+🔹**System Analysis and Design**                                    
 As a Software Engineer, I have extensive experience in creating architectural and analytical diagrams that contribute to building robust and efficient systems
  I possess strong skills in data analysis, software architecture design, and database planning, ensuring the development of scalable and sustainable technical solutions.
 
